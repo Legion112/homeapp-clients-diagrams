@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T09:30:02.668Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JhUFK3vkJoO8_t2SE2fd" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T09:30:34.127Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QqfB_pt6jVQixHOs1OM1" version="14.8.2" type="github">
   <diagram id="Q_xmtvUPQ6Yv9zy_9RRj" name="Page-1">
     <mxGraphModel dx="978" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,9 +165,6 @@
               <mxPoint x="411" y="100" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T-LhHKoDIlnkGS5jSO6F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-LhHKoDIlnkGS5jSO6F-6" target="04Uxs3DeIcLFDnEtFiIm-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-LhHKoDIlnkGS5jSO6F-6" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Перенести&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;deadline =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;scheduledAt + 24 часа&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="230" width="200" height="70" as="geometry" />
